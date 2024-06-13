@@ -1,0 +1,8 @@
+Elige alguna de estas opciones: 
+
+Opción 1 - Conocer nuestros Servicios y Tarifas. 
+Opción 2 - Ubicación y Horarios de Atención.
+Opción 3 - Realizar otras consultas.
+Opción 4 - Términos y Condiciones.
+
+Opción 0 - Salir
